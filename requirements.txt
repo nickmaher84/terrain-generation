@@ -1,0 +1,6 @@
+numpy
+scipy
+noise
+svgwrite
+cairosvg
+colour
